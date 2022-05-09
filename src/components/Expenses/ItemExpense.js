@@ -2,7 +2,7 @@ import './ItemExpense.css';
 import DateExpense from './DateExpense';
 import Card from '../Card';
 
-function ExpenseItem(props) {
+function ItemExpense(props) {
 
 
   return (
@@ -16,4 +16,4 @@ function ExpenseItem(props) {
   );
 }
 
-export default ExpenseItem;
+export default ItemExpense;
